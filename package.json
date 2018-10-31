@@ -1,0 +1,16 @@
+{
+  "name": "front_jdonado",
+  "version": "1.0.0",
+  "description": "Prueba FrontEnd Julián Donado",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julián Donado",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.1"
+  }
+}
